@@ -1,0 +1,14 @@
+# Ultralytics requirements
+# Example: pip install -r requirements.txt
+
+
+ultralytics~=8.1.29
+opencv-python~=4.9.0.80
+cvzone~=1.6.1
+filterpy==1.4.5
+scikit-image~=0.22.0
+filterpy
+
+
+numpy~=1.26.4
+matplotlib~=3.8.3
